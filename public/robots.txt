@@ -1,0 +1,11 @@
+# Robots.txt - Experiencias Consumidores
+# https://www.robotstxt.org/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: sitemap.xml
+
+# Crawl-delay para ser respetuoso con los bots
+Crawl-delay: 1
